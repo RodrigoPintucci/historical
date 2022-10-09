@@ -1,0 +1,439 @@
+.shapes01{
+    animation: scale01 30s 1;
+}
+.shapes02{
+    animation: scale02 30s 1;
+}
+.shapes03{
+    animation: scale03 30s 1;
+}
+.shapes04{
+    animation: scale04 30s 1;
+}
+.shapes05{
+    animation: scale05 30s 1;
+}
+.shapes06{
+    animation: scale06 30s 1;
+}
+.shapes07{
+    animation: scale07 30s 1;
+}
+.shapes08{
+    animation: scale08 30s 1;
+}
+.shapes09{
+    animation: scale09 30s 1;
+}
+.shapes10{
+    animation: scale10 30s 1;
+}
+.shapes11{
+    animation: scale11 30s 1;
+}
+.shapes12{
+    animation: scale12 30s 1;
+}
+.shapes13{
+    animation: scale13 30s 1;
+}
+.shapes14{
+    animation: scale14 30s 1;
+}
+.shapes15{
+    animation: scale15 30s 1;
+}
+.shapes16{
+    animation: scale16 30s 1;
+}
+.shapes17{
+    animation: scale17 30s 1;
+}
+.shapes18{
+    animation: scale18 30s 1;
+}
+.shapes19{
+    animation: scale19 30s 1;
+}
+.shapes20{
+    animation: scale20 30s 1;
+}
+.shapes21{
+    animation: scale21 30s 1;
+}
+.shapes22{
+    animation: scale22 30s 1;
+}
+.shapes23{
+    animation: scale23 30s 1;
+}
+.shapes24{
+    animation: scale24 30s 1;
+}
+.shapes25{
+    animation: scale25 30s 1;
+}
+.shapes26{
+    animation: scale26 30s 1;
+}
+.shapes27{
+    animation: scale27 30s 1;
+}
+.shapes28{
+    animation: scale28 30s 1;
+}
+.shapes29{
+    animation: scale29 30s 1;
+}
+
+
+
+
+
+@keyframes scale01 {
+    0% {
+        transform: scale(0%);
+    }
+    84% {
+        transform: scale(0%);
+    }
+    87% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale02 {
+    0% {
+        transform: scale(0%);
+    }
+    81% {
+        transform: scale(0%);
+    }
+    84% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale03 {
+    0% {
+        transform: scale(0%);
+    }
+    78% {
+        transform: scale(0%);
+    }
+    81% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale04 {
+    0% {
+        transform: scale(0%);
+    }
+    75% {
+        transform: scale(0%);
+    }
+    78% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale05 {
+    0% {
+        transform: scale(0%);
+    }
+    72% {
+        transform: scale(0%);
+    }
+    75% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale06 {
+    0% {
+        transform: scale(0%);
+    }
+    69% {
+        transform: scale(0%);
+    }
+    72% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale07 {
+    0% {
+        transform: scale(0%);
+    }
+    66% {
+        transform: scale(0%);
+    }
+    69% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale08 {
+    0% {
+        transform: scale(0%);
+    }
+    63% {
+        transform: scale(0%);
+    }
+    66% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale09 {
+    0% {
+        transform: scale(0%);
+    }
+    60% {
+        transform: scale(0%);
+    }
+    63% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale10 {
+    0% {
+        transform: scale(0%);
+    }
+    57% {
+        transform: scale(0%);
+    }
+    60% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale11 {
+    0% {
+        transform: scale(0%);
+    }
+    54% {
+        transform: scale(0%);
+    }
+    57% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale12 {
+    0% {
+        transform: scale(0%);
+    }
+    51% {
+        transform: scale(0%);
+    }
+    54% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale13 {
+    0% {
+        transform: scale(0%);
+    }
+    48% {
+        transform: scale(0%);
+    }
+    51% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale14 {
+    0% {
+        transform: scale(0%);
+    }
+    45% {
+        transform: scale(0%);
+    }
+    48% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale15 {
+    0% {
+        transform: scale(0%);
+    }
+    42% {
+        transform: scale(0%);
+    }
+    45% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale16 {
+    0% {
+        transform: scale(0%);
+    }
+    39% {
+        transform: scale(0%);
+    }
+    42% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale17 {
+    0% {
+        transform: scale(0%);
+    }
+    36% {
+        transform: scale(0%);
+    }
+    39% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale18 {
+    0% {
+        transform: scale(0%);
+    }
+    33% {
+        transform: scale(0%);
+    }
+    36% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale19 {
+    0% {
+        transform: scale(0%);
+    }
+    30% {
+        transform: scale(0%);
+    }
+    33% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale20 {
+    0% {
+        transform: scale(0%);
+    }
+    27% {
+        transform: scale(0%);
+    }
+    30% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale21 {
+    0% {
+        transform: scale(0%);
+    }
+    24% {
+        transform: scale(0%);
+    }
+    27% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale22 {
+    0% {
+        transform: scale(0%);
+    }
+    21% {
+        transform: scale(0%);
+    }
+    24% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale23 {
+    0% {
+        transform: scale(0%);
+    }
+    18% {
+        transform: scale(0%);
+    }
+    21% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale24 {
+    0% {
+        transform: scale(0%);
+    }
+    15% {
+        transform: scale(0%);
+    }
+    18% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale25 {
+    0% {
+        transform: scale(0%);
+    }
+    12% {
+        transform: scale(0%);
+    }
+    15% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale26 {
+    0% {
+        transform: scale(0%);
+    }
+    9% {
+        transform: scale(0%);
+    }
+    12% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale27 {
+    0% {
+        transform: scale(0%);
+    }
+    6% {
+        transform: scale(0%);
+    }
+    9% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale28 {
+    0% {
+        transform: scale(0%);
+    }
+    3% {
+        transform: scale(0%);
+    }
+    6% {
+        transform: scale(100%);
+    }
+}
+
+@keyframes scale29 {
+    0% {
+        transform: scale(0%);
+    }
+    3% {
+        transform: scale(100%);
+    }
+}
+
+
+

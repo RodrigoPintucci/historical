@@ -30,6 +30,7 @@ body {
     padding: 0;
     stroke: rgb(64, 44, 66);
     stroke-width: var(--stroke-width); 
+    scale: 0.75;
 }
 
 /* atribuição das classes */

@@ -1,3 +1,32 @@
+/* importação da fonte */
+
+@font-face {
+    font-family: 'VT323';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/vt323/v17/pxiKyp0ihIEF2isfFJU.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* fundo  */
+body {
+    background: rgb(200,191,231);
+    background: -webkit-linear-gradient(rgb(200,191,231), rgb(200,191,231));
+    background: -o-linear-gradient(rgb(200,191,231), rgb(200,191,231));
+    background: -moz-linear-gradient(rgb(200,191,231), rgb(200,191,231));
+    background: linear-gradient(rgb(200,191,231), rgb(200,191,231));
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: 'VT323';
+    font-size: 22px;
+    color: rgb(64, 44, 66);
+    margin: 0;
+    padding: 0;
+}
+
+/* atribuição das classes */
 .shapes01{
     animation: scale01 30s 1;
 }
@@ -86,9 +115,7 @@
     animation: scale29 30s 1;
 }
 
-
-
-
+/* animação das classes */
 
 @keyframes scale01 {
     0% {
